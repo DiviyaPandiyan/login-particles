@@ -16,7 +16,11 @@ For button box shadow: 0 0 5px #f403af,
 }
 body{
     height: 100vh;
-    background: linear-gradient(#872525, #243b55);
+    /* background: linear-gradient(#872525, #243b55); */
+    background-image: url("./image/bg-img.jpeg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
 }
 
 .loginBox{
